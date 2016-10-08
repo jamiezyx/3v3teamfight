@@ -1,0 +1,9 @@
+name: 3vs3
+main: Jamiezyx\threevsthree\ThreeVsThree
+version: 0.0.2
+api: 1.2.0
+description: 3vs3 Plugin
+permissions:
+  threevsthree.refarena:
+    description: "Allows using /refarena"
+    default: op
